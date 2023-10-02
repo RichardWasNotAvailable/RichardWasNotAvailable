@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @RichardSchepen
-- 👀 I’m interested in Building Websites
-- 🌱 I’m currently learning HTML/CSS and JavaScript
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Send me a message on Discord (mrrichard_)
+Hi There! Nice to meet you!
 
-<!---
-RichardSchepen/RichardSchepen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---- ABOUT ME----
+
+Name: Richard
+<br>
+DOB: December 30th 2006
+<br>
+POB: the Netherlandbs
+<br>
+Currently live in: the Netherlands
+
+----CODING----
+
+Languages: HTML/CSS & JavaScript (Learning) 
+<br>
+Program: Visual Studio Code
+<br>
+Started: 2023
+<br>
+
+
