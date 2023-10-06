@@ -6,7 +6,7 @@ Name: Richard
 <br>
 DOB: December 30th 2006
 <br>
-POB: the Netherlandbs
+POB: the Netherlands, near Rotterdam
 <br>
 Currently live in: the Netherlands
 
