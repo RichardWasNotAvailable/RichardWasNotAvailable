@@ -1,8 +1,8 @@
-Hi There! Nice to meet you!
+<h1> Hi There! Nice to meet you! </h1>
 
 ---- ABOUT ME----
 
-<h1> Name: Richard </h1>
+<h2> Name: Richard </h2>
 <br>
 <p>DOB: December 30th 2006</p>
 <br>
