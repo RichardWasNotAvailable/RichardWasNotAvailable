@@ -2,7 +2,7 @@ Hi There! Nice to meet you!
 
 ---- ABOUT ME----
 
-Name: Richard
+<h1> Name: Richard </h1>
 <br>
 DOB: December 30th 2006
 <br>
