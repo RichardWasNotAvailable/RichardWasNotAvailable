@@ -4,19 +4,19 @@ Hi There! Nice to meet you!
 
 <h1> Name: Richard </h1>
 <br>
-DOB: December 30th 2006
+<p>DOB: December 30th 2006</p>
 <br>
-POB: the Netherlands, near Rotterdam
+<p>POB: the Netherlands, near Rotterdam</p>
 <br>
-Currently live in: the Netherlands
+<p>Currently live in: the Netherlands</p>
 
 ----CODING----
 
-Languages: HTML/CSS & JavaScript (Learning) 
+<p> Languages: HTML/CSS & JavaScript (Learning) </p>
 <br>
-Program: Visual Studio Code
+<p>Program: Visual Studio Code </p>
 <br>
-Started: 2023
+<p>Started: 2023 </p>
 <br>
 
 
