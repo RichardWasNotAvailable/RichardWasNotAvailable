@@ -1,6 +1,6 @@
 <h1> Hi There! Nice to meet you! </h1>
 
----- ABOUT ME----
+<h6> ---- ABOUT ME---- </h6>
 
 <h2> Name: Richard </h2>
 <br>
