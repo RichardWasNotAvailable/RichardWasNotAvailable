@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWasNotAvailable&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWasNotAvailable&layout=pie)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwjF2pi_sOSPAxWGgv0HHSKOGLQQwqsBegQIFhAH&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
