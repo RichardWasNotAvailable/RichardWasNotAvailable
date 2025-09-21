@@ -1,2 +1,2 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWasNotAvailable&layout=pie)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwjF2pi_sOSPAxWGgv0HHSKOGLQQwqsBegQIFhAH&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
-[BL](https://cdn.discordapp.com/attachments/1380612771980513298/1419387154962059435/Untitled_video_-_Made_with_Clipchamp.gif?ex=68d192cc&is=68d0414c&hm=89e38fbdd30499ec1b1927996f8c8923d3b06ee9442c77db68b4f0e0981c0132&)
+[![BL](https://cdn.discordapp.com/attachments/1380612771980513298/1419387154962059435/Untitled_video_-_Made_with_Clipchamp.gif?ex=68d192cc&is=68d0414c&hm=89e38fbdd30499ec1b1927996f8c8923d3b06ee9442c77db68b4f0e0981c0132&)
