@@ -3,4 +3,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=RichardWasNotAvailable&theme=dark)](https://git.io/streak-stats)
 
 
-[![Visitor Count](https://profile-counter.glitch.me/RichardWasNotAvailable/count.svg)
+[!Visitor Count](https://profile-counter.glitch.me/RichardWasNotAvailable/count.svg)
