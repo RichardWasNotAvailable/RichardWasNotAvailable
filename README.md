@@ -1,3 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardWasNotAvailable&layout=pie&theme=dark)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DdQw4w9WgXcQ&ved=2ahUKEwjF2pi_sOSPAxWGgv0HHSKOGLQQwqsBegQIFhAH&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RichardWasNotAvailable&theme=dark)](https://git.io/streak-stats)
+
+
+![Visitor Count](https://profile-counter.glitch.me/RichardWasNotAvailable/count.svg)
