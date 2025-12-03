@@ -1,9 +1,9 @@
 ###
 
 <div align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Richard;Web+Developer" margin-left="10"/>
-  </p>
+  <div style="text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Richard;Web+Developer"/>
+</div>
   <br>
   <img src="https://streak-stats.demolab.com/?user=RichardWasNotAvailable&theme=tokyonight-duo" height="150"/>
   <br>
