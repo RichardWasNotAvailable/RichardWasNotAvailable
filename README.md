@@ -1,9 +1,10 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Richard;Software+Developer" alt="Typing SVG" /></a>
+  <br>
   <img src="https://streak-stats.demolab.com/?user=RichardWasNotAvailable&theme=tokyonight-duo" height="150"/>
 </div>
-
 ###
 
 ###
