@@ -6,8 +6,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/146439349?v=4"  />
-
 ###
 
 <div align="left">
